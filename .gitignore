@@ -1,0 +1,19 @@
+# Environment
+venv/
+.env
+
+# Data files (large CSVs and indexes)
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
